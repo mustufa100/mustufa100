@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **REACTJS, NEXTJS, PYTHON, NLP-TECHNIQUES, AI**
 
-- 👨‍💻 All of my projects are available at [https://65074f83ba445e66cc3ccce1--peppy-gecko-fe5c29.netlify.app/](https://65074f83ba445e66cc3ccce1--peppy-gecko-fe5c29.netlify.app/)
+- 👨‍💻 All of my projects are available at https://kinetechsdigital.com/
 
 - 💬 Ask me about **MERN-STACK, PROBLEM-SOLVING, CASE-STUDIES, NLP-TECHNIQUES, AI**
 
