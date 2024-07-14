@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Syed Mustufa Ahmed Naqvi</h1>
-<h3 align="center">BSCS | UNDERGRADUATE | SSUET | FRONT-END DEVELOPER | REACTJS | NEXTJS</h3>
+<h3 align="center">BSCS | UNDERGRADUATE | SSUET | MERN STACK DEVELOPER | AI | NLP | PYTHON</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustufa100&label=Profile%20views&color=0e75b6&style=flat" alt="mustufa100" /> </p>
 
-- 🔭 I’m currently working on [REACTJS WEBSITE](https://main--delightful-bubblegum-ca685c.netlify.app/)
+- 🔭 I’m currently working on (https://kinetechsdigital.com/) With TechStack [React.js, Next.js, TailwindCSS, FramerMotion, Node.js, Express.js, MongoDB]
 
-- 🌱 I’m currently learning **JAVASCRIPT , REACTJS , NEXTJS**
+- 🌱 I’m currently learning **REACTJS, NEXTJS, PYTHON, NLP-TECHNIQUES, AI**
 
 - 👨‍💻 All of my projects are available at [https://65074f83ba445e66cc3ccce1--peppy-gecko-fe5c29.netlify.app/](https://65074f83ba445e66cc3ccce1--peppy-gecko-fe5c29.netlify.app/)
 
-- 💬 Ask me about **FRONT-END , REACTJS , NEXTJS**
+- 💬 Ask me about **MERN-STACK, PROBLEM-SOLVING, CASE-STUDIES, NLP-TECHNIQUES, AI**
 
 - 📫 How to reach me **mustufanaqvi44@gmail.com**
 
